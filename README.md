@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#Perkenalan Diri
+```TXT
+Hallo gays, perkenalan nama saya Latip Harkat
+Saya berasal dari Pakuwon, Sukabumi, Jawa Barat
+Usia saya masih 16 Tahun! Bersekolah di SMP ISLAM YPI PARUNGKUDA
+Saya hanya ingin jadi programmer:v saya lebih ke full stack Developer
+```
