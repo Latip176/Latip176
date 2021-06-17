@@ -16,8 +16,15 @@ Here are some ideas to get you started:
 -->
 ### Perkenalan Diri
 ```TXT
-Hallo gays, perkenalan nama saya Latip Harkat
-Saya berasal dari Pakuwon, Sukabumi, Jawa Barat
-Usia saya masih 16 Tahun! Bersekolah di SMP ISLAM YPI PARUNGKUDA
-Saya hanya ingin jadi programmer:v saya lebih ke full stack Developer
+Hallo everyone! Perkenalkan nama asli saya "Muhammad Latif Harkat", saya sering di panggil Latif!
+Ini adalah akun github saya satu-satunya semoga tidak menemui akun github clone dari akun saya.
+Saya harap saya bisa membantu kalian dalam soal bahasa pemrograman ataupun dalam bidang IT lainnya.
+
+Data diri saya:
+Nama: Muhammad Latif Harkat
+Tempat tanggal lahir: Sukabumi, 28 Juni 2005
+Asal Provinsi: Jawa barat
+Asal Kabupaten: Sukabumi
+
+Ok Thanks! Just for fun. Nice to meet you!
 ```
