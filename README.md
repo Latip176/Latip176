@@ -1,6 +1,6 @@
 
 ### Github Stats
-##### Hey hey...👋
+##### https://github.com/Latip176
 
 ![](https://komarev.com/ghpvc/?username=Latip176&color=green)
 
