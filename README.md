@@ -1,3 +1,5 @@
+<h1>👋 Hi Selamat Datang</h1>
+<p>Ini adalah akun Github asli dari Muhammad Latif Harkat. Jika ada akun selain ini itu fake (palsu).</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Latip176&layout=compact)](https://github.com/Latip176/github-readme-stats)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Latip176&acount_private=true)
