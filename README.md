@@ -1,6 +1,6 @@
 <h1>About</h1>
 <p>Muhammad Latif Harkat adalah seorang programmer yang berasal dari Sukabumi, Jawa Barat, Indonesia 🇮🇩</p>
-<h1>Suport me on</h1>
+<h1>Visit me on</h1>
 <ul>
    <li><a href="https://www.facebook.com/latif.harkat.dev/">Facebook</a></li>
    <li><a href="https://www.instagram.com/latif176_">Instagram</a></li>
