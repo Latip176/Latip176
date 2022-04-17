@@ -7,7 +7,7 @@
    <li><a href="https://www.tiktok.com/@latip176_">Tiktok</a></li>
    <li><a href="https://www.latip176.my.id/">Website</a></li>
 </ul>
-<h2>📈Github stats</h2>
+<h2>📈 Github stats</h2>
 <a href="https://github.com/Latip176">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Latip176&count_private=true&show_icons=true&hide_border=false&custom_title=Latip176%20Github%20Stats&include_all_commits=true&hide=issues&theme=tokyonight" alt="Latip176 GitHub Stats" />
 </a>
