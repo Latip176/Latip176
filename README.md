@@ -26,3 +26,4 @@ public class latif_harkat {
 Latip176/Latip176 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Copyright Glorious Savior 2022 - 2023
