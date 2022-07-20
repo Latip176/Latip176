@@ -1,16 +1,29 @@
 ![PROFILE VIEWERS](https://gpvc.arturio.dev/Latip176)
-<h1>About</h1>
-<p>Muhammad Latif Harkat adalah seorang programmer yang berasal dari Sukabumi, Jawa Barat, Indonesia 🇮🇩 </p>
-<h2>Visit me on</h2>
-<ul>
-   <li><a href="https://www.facebook.com/latif.harkat.dev/">Facebook</a></li>
-   <li><a href="https://www.instagram.com/latif176_">Instagram</a></li>
-   <li><a href="https://www.tiktok.com/@latip176_">Tiktok</a></li>
-   <li><a href="https://www.latip176.my.id/">Website</a></li>
-</ul>
-<h2>📈 Github stats</h2>
-<a href="https://github.com/Latip176">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Latip176&count_private=true&show_icons=true&hide_border=false&custom_title=Latip176%20Github%20Stats&include_all_commits=true&hide=issues&theme=tokyonight" alt="Latip176 GitHub Stats" />
-</a>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Latip176&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="mazipan" /></p>
+# 👋 Hi, I’m @Latip176
+I come from Indonesia. I'm an otaku. Nice to meet you
+<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxOU3pdb-CxzpNPK-6eyLPUMPJeviRplBCFw&usqp=CAU' alt="This me" />
+```JAVA
+public class latif_harkat {
+   public static void main(String[] args) {
+      System.out.print("Welcome To My Profile!");
+   }
+}
+```
+## 💻 Programming language used
+- Python (3.x.x)
+- Php
+- Java, Java Script
+- C++, C#, C
+## 👀 Visit me on
+- Instagram : @latif176_
+- Facebook : ラティフ (facebook.com/latif.harkat.176)
+- Twitter : @latifdev176
+## 💞 Colleague (Fatner)
+### Glorious Savior (Marga-176)™
+- Instagram : @glorious.savior
+- Facebook : Glorious Savior (fb.me/glorious.savior.176)
+- Twitter : @glorious176
+<!---
+Latip176/Latip176 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
